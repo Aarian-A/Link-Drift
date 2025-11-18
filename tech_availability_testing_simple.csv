@@ -1,0 +1,12 @@
+Address_ID,Street_Address,City,State,ZIP_Code,Test_Time,Expected_Metric,Expected_Value,Expected_Window,Expected_Date,Expected_Time_Slot,Notes
+A006,4321 Pine Avenue,Orlando,FL,32801,10:00 AM Weekday,Tech Availability,9 technicians,Today (Next 3 hrs),Today,11:00 AM - 2:00 PM,High quality score + low network load = same day availability
+A009,6789 Riverside Drive,Jacksonville,FL,32202,11:00 AM Weekday,Tech Availability,9 technicians,Today (Next 3 hrs),Today,12:00 PM - 3:00 PM,Best quality score (98) + fiber ready = max techs today
+A006,4321 Pine Avenue,Orlando,FL,32801,4:30 PM Weekday,Tech Availability,9 technicians,Tomorrow Morning,Tomorrow Date,8:00 AM - 12:00 PM,Less than 3 hours left today - pushed to tomorrow
+A009,6789 Riverside Drive,Jacksonville,FL,32202,4:30 PM Weekday,Tech Availability,9 technicians,Tomorrow Morning,Tomorrow Date,8:00 AM - 12:00 PM,Less than 3 hours left today - pushed to tomorrow
+A006,4321 Pine Avenue,Orlando,FL,32801,Saturday 2:00 PM,Tech Availability,11 technicians,Monday,Monday Date,8:00 AM - 12:00 PM,Weekend request + 2 bonus techs for Monday
+A009,6789 Riverside Drive,Jacksonville,FL,32202,Sunday 6:00 PM,Tech Availability,11 technicians,Monday,Monday Date,8:00 AM - 12:00 PM,Weekend request + 2 bonus techs for Monday
+A001,1245 Oak Ridge Apartments,Wichita Falls,TX,76301,10:00 AM Weekday,Active Customers,24 customers,N/A,N/A,N/A,Shows Active Customers in Building instead of Tech Availability
+A002,3456 Elm Street,Livermore,CA,94550,10:00 AM Weekday,Active Customers,12 customers,N/A,N/A,N/A,Shows Active Customers on Street instead of Tech Availability
+A003,789 Business Park Drive,Sarasota,FL,34236,10:00 AM Weekday,Active Customers,36 customers,N/A,N/A,N/A,Engineering not ready but has active customers in building
+A005,567 Sunset Plaza Condos,Los Angeles,CA,90012,10:00 AM Weekday,Active Customers,32 customers,N/A,N/A,N/A,Shows Active Customers in Building despite engineering not ready
+

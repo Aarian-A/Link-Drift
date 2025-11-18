@@ -1,0 +1,12 @@
+Street_Address,City,State,ZIP_Code,Address_Type,Expected_Technology,Expected_Speed,Expected_Status
+1245 Oak Ridge Apartments,Wichita Falls,TX,76301,Multi-Dwelling,Fiber,1-10 Gbps,Limited Service
+3456 Elm Street,Livermore,CA,94550,Single-Family,Copper,<1 Gbps,Limited Service
+789 Business Park Drive,Sarasota,FL,34236,Commercial,Mixed,10-25 Gbps,Limited Service - Engineering Required
+2890 Maple Lane,Houston,TX,77002,Single-Family,Fiber,>25 Gbps,Excellent Service
+567 Sunset Plaza Condos,Los Angeles,CA,90012,Multi-Dwelling,Fiber,Available (No Speed Listed),Limited - Engineering Required
+4321 Pine Avenue,Orlando,FL,32801,Single-Family,Copper,<1 Gbps,Limited Service
+8900 Cedar Hills Apartments,Dallas,TX,75201,Multi-Dwelling,Mixed,1-10 Gbps,Good Service
+1500 Harbor Tech Center,San Diego,CA,92101,Commercial,Fiber,10-25 Gbps,Excellent Service
+6789 Riverside Drive,Jacksonville,FL,32202,Single-Family,Fiber,>25 Gbps,Premium Service (Best!)
+234 Valley View Apartments,Brownsville,TX,78520,Multi-Dwelling,Copper,<1 Gbps,Not Currently Serviceable
+

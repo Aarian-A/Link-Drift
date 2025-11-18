@@ -1,0 +1,12 @@
+Address_ID,Street_Address,City,State,ZIP_Code,Latitude,Longitude,Address_Type,Technology_Type,Speed_Tier,Distance_to_Fiber_Node_ft,Network_Load_%,Fiber_Available,Engineering_Ready,Active_Services_in_MDU,Past_Install_Success_%,Trouble_Ticket_Rate_%,Cancelled_Appointments,Outages_Last_6mo,Avg_Hours_Service_Loss,Truck_Rolls_Last_6mo,TSO_Calls_Last_6mo,ASR_Calls_Last_6mo,Retention_Calls_Last_6mo,Account_Suspended_for_NonPayment,Competitor_Max_Speed_Mbps,Competitor_Tech,Social_Media_Callouts,Building_Age_Years,Customer_Density_per_sqmi,ROI_Score,Address_Quality_Score
+A001,1245 Oak Ridge Apartments,Wichita Falls,TX,76301,33.45,-98.23,Multi-Dwelling,Fiber,1-10 Gbps,1247,67,Yes,Yes,8,87,12,2,4,2.34,3,5,4,1,No,1000,Fiber,Low,28,3452,0.76,89
+A002,3456 Elm Street,Livermore,CA,94550,37.82,-121.45,Single-Family,Copper,<1 Gbps,456,43,No,Yes,2,92,8,0,1,0.56,1,2,1,0,No,500,Cable,Low,15,4821,0.68,94
+A003,789 Business Park Drive,Sarasota,FL,34236,27.91,-82.67,Commercial,Mixed,10-25 Gbps,1823,78,Yes,No,12,76,18,3,6,3.89,5,8,6,3,No,5000,Fiber,Medium,42,2134,0.82,71
+A004,2890 Maple Lane,Houston,TX,77002,29.76,-95.37,Single-Family,Fiber,>25 Gbps,634,54,Yes,Yes,0,94,5,1,2,1.23,2,3,2,1,No,10000,Fiber,Low,22,5432,0.88,96
+A005,567 Sunset Plaza Condos,Los Angeles,CA,90012,34.05,-118.25,Multi-Dwelling,Fiber,Fiber available but no speed,892,61,Yes,No,11,68,15,2,5,2.67,4,6,3,2,No,1000,DSL,Medium,35,3876,0.71,78
+A006,4321 Pine Avenue,Orlando,FL,32801,28.54,-81.38,Single-Family,Copper,<1 Gbps,1456,38,No,Yes,0,85,9,1,3,1.45,2,4,2,0,No,500,Cable,Low,19,4123,0.65,91
+A007,8900 Cedar Hills Apartments,Dallas,TX,75201,32.78,-96.8,Multi-Dwelling,Mixed,1-10 Gbps,723,72,Yes,Yes,9,81,13,2,4,2.89,3,7,5,2,Yes,1000,Wireless,High,31,2945,0.73,82
+A008,1500 Harbor Tech Center,San Diego,CA,92101,32.72,-117.16,Commercial,Fiber,10-25 Gbps,1178,85,Yes,Yes,5,89,7,0,1,0.78,1,2,1,0,No,5000,Fiber,Low,12,5234,0.85,93
+A009,6789 Riverside Drive,Jacksonville,FL,32202,30.33,-81.66,Single-Family,Fiber,>25 Gbps,345,48,Yes,Yes,0,96,4,0,0,0.12,0,1,0,0,No,10000,Fiber,Low,8,4567,0.91,98
+A010,234 Valley View Apartments,Brownsville,TX,78520,26.19,-98.23,Multi-Dwelling,Copper,<1 Gbps,1567,44,No,No,6,72,16,3,7,3.45,6,9,7,4,No,100,DSL,Medium,48,1876,0.58,73
+

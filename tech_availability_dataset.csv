@@ -1,0 +1,12 @@
+Address_ID,Street_Address,City,State,ZIP_Code,Address_Type,Active_Customers,Show_Metric,Network_Load_%,Quality_Score,Fiber_Available,Engineering_Ready,Trouble_Ticket_%,Outages_6mo,Base_Tech_Count,Quality_Multiplier,Tech_Count_Weekday,Tech_Count_Weekend,Availability_Window_AM,Availability_Window_PM,Availability_Window_Evening,Time_Slot_Today,Time_Slot_Tomorrow,Expected_Display
+A001,1245 Oak Ridge Apartments,Wichita Falls,TX,76301,Multi-Dwelling,24,Active Customers,67,89,Yes,Yes,12,4,4,1.5,7,9,Tomorrow,Tomorrow,Monday,N/A,8:00 AM - 12:00 PM,"Active Customers in Building: 24 customers"
+A002,3456 Elm Street,Livermore,CA,94550,Single-Family,12,Active Customers,43,94,No,Yes,8,1,5,1.5,8,10,Today (3hrs),Tomorrow,Monday,10:00 AM - 1:00 PM,8:00 AM - 12:00 PM,"Active Customers on Street: 12 customers"
+A003,789 Business Park Drive,Sarasota,FL,34236,Commercial,36,Active Customers,78,71,Yes,No,18,6,2,1.0,2,4,Tomorrow,Tomorrow,Monday,N/A,8:00 AM - 12:00 PM,"Active Customers in Building: 36 customers"
+A004,2890 Maple Lane,Houston,TX,77002,Single-Family,18,Active Customers,54,96,Yes,Yes,5,2,4,1.5,8,10,Today (3hrs),Tomorrow,Monday,11:00 AM - 2:00 PM,8:00 AM - 12:00 PM,"Active Customers in City: 18 customers"
+A005,567 Sunset Plaza Condos,Los Angeles,CA,90012,Multi-Dwelling,32,Active Customers,61,78,Yes,No,15,5,3,1.0,3,5,Tomorrow,Tomorrow,Monday,N/A,8:00 AM - 12:00 PM,"Active Customers in Building: 32 customers"
+A006,4321 Pine Avenue,Orlando,FL,32801,Single-Family,0,Tech Availability,38,91,No,Yes,9,3,6,1.5,9,11,Today (3hrs),Tomorrow,Monday,10:00 AM - 1:00 PM,8:00 AM - 12:00 PM,"Tech Availability: 9 technicians | Today (Next 3 hrs)"
+A007,8900 Cedar Hills Apartments,Dallas,TX,75201,Multi-Dwelling,28,Active Customers,72,82,Yes,Yes,13,4,2,1.0,4,6,Tomorrow,Tomorrow,Monday,N/A,8:00 AM - 12:00 PM,"Active Customers in Building: 28 customers"
+A008,1500 Harbor Tech Center,San Diego,CA,92101,Commercial,45,Active Customers,85,93,Yes,Yes,7,1,1,1.5,3,5,Tomorrow,Tomorrow,Monday,N/A,8:00 AM - 12:00 PM,"Active Customers in Building: 45 customers"
+A009,6789 Riverside Drive,Jacksonville,FL,32202,Single-Family,0,Tech Availability,48,98,Yes,Yes,4,0,5,1.5,9,11,Today (3hrs),Tomorrow,Monday,11:00 AM - 2:00 PM,8:00 AM - 12:00 PM,"Tech Availability: 9 technicians | Today (Next 3 hrs)"
+A010,234 Valley View Apartments,Brownsville,TX,78520,Multi-Dwelling,6,Active Customers,44,73,No,No,16,7,5,1.0,4,6,Tomorrow,Tomorrow,Monday,N/A,8:00 AM - 12:00 PM,"Active Customers in Building: 6 customers"
+

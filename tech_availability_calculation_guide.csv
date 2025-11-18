@@ -1,0 +1,13 @@
+Factor,Description,Impact_on_Tech_Count,Example_Value,Tech_Count_Change,Notes
+Network_Load_%,Current network utilization,Lower load = more techs available,38%,+6 techs,Base calculation: (100 - 38) / 10 = 6.2 → 6 techs
+Quality_Score,Address quality rating,Score > 85 = 1.5x multiplier,91,×1.5 multiplier,Quality score 91 > 85 so 6 × 1.5 = 9 techs
+Fiber_Available,Fiber infrastructure present,Yes adds +1 tech,Yes,+1 tech,Fiber areas get priority scheduling
+Engineering_Ready,Site engineering completed,No pushes to tomorrow,Yes,No change (today),If No and high load then tomorrow only
+Trouble_Ticket_%,Recent trouble ticket rate,Rate > 10% reduces techs,-1,>10%,-1 tech,High tickets = fewer available techs
+Outages_6mo,Outages in last 6 months,>3 outages reduces techs,-1,>3 outages,-1 tech,Problem areas get fewer techs
+Weekend_Bonus,Requested on weekend,Monday gets +2 techs,+2,Saturday/Sunday,More techs available start of week
+Current_Hour,Time of day (6 AM - 6 PM),Determines availability window,Varies,Window changes,Before 3 PM = Today possible; After = Tomorrow
+Hours_Remaining,Hours until 6 PM,<3 hours pushes to tomorrow,Varies,Window changes,Need 3+ hours for same-day service
+Day_of_Week,Current day,Fri/Sat/Sun → Monday,0-6,+2 on Monday,Weekend work scheduled for Monday
+Base_Count_Min,Minimum technicians,Always at least 1-2 techs,Varies,Minimum 1-2,Even worst locations get some availability
+
